@@ -1,31 +1,39 @@
-body {
-  font-size: 16px;
-  color: #fff;
-  background-color: #61122f;
-  font-family: 'Oxygen', sans-serif;
+*{
+margin: 0;
+padding: 0;
+	
+}
+.navbar{
+border: none;
+background-color: black;
 }
 
-#header-nav {
-  background-color: #f6b319;
-  border-radius: 0;
-  border: 0;
+#myNavbar ul li a {
+color: white;
+text-align: center;
+font-size: 20px;
 }
 
-.navbar-brand {
-  padding-top: 25px;
+.navbar-brand a: hover, .navbar-brand a: focus{
+padding-top: 15px;
+font-size: 30px;
+font-weight: bold;
+color: white;	
 }
 
-.navbar-brand h1 {Food,LLC}
-  font-family: 'Lora', serif;
-  color: #557c3e;
-  font-size: 1.5em;
-  text-transform: uppercase;
-  font-weight: bold;
-  text-shadow: 1px 1px 1px #222;
-  margin-top: 0;
-  margin-bottom: 0;
-  line-height: .75;
+h2{
+text-align: center;
 }
-.navbar-brand a:hover, .navbar-brand a:focus {
-  text-decoration: none;
+
+body{
+background-color: beige;
+color: darkblue;
+}
+	
+.container
+{
+background-color: mintcream;
+}
+.text-center{
+font-size: 30px;
 }

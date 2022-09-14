@@ -1,0 +1,39 @@
+*{
+margin: 0;
+padding: 0;
+	
+}
+.navbar{
+border: none;
+background-color: black;
+}
+
+#myNavbar ul li a {
+color: white;
+text-align: center;
+font-size: 20px;
+}
+
+.navbar-brand a: hover, .navbar-brand a: focus{
+padding-top: 15px;
+font-size: 30px;
+font-weight: bold;
+color: white;	
+}
+
+h2{
+text-align: center;
+}
+
+body{
+background-color: beige;
+color: darkblue;
+}
+	
+.container
+{
+background-color: mintcream;
+}
+.text-center{
+font-size: 30px;
+}
